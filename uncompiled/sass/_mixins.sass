@@ -1,0 +1,114 @@
+@mixin border-radius($radius)
+	-moz-border-radius:    $radius
+	-webkit-border-radius: $radius
+	-ms-border-radius:     $radius
+	border-radius:         $radius
+
+@mixin border-radius-bottom($radius)
+	-moz-border-radius:    0px 0px $radius $radius
+	-webkit-border-radius: 0px 0px $radius $radius
+	-ms-border-radius:     0px 0px $radius $radius
+	border-radius:         0px 0px $radius $radius
+
+@mixin box-shadow($details)
+	-moz-box-shadow:    $details
+	-webkit-box-shadow: $details
+	box-shadow:         $details
+
+@mixin transition($details)
+	-webkit-transition: $details
+	-moz-transition:    $details
+	-o-transition:      $details
+	-ms-transition:     $details
+	transition:         $details
+
+@mixin transform-scale($new-scale)
+	transform:         scale($new-scale)
+	-ms-transform:     scale($new-scale)
+	-webkit-transform: scale($new-scale)
+	-o-transform:      scale($new-scale)
+	-moz-transform:    scale($new-scale)
+
+@mixin transform-rotate($new-deg)
+	transform:         rotate($new-deg)
+	-ms-transform:     rotate($new-deg)
+	-webkit-transform: rotate($new-deg)
+	-o-transform:      rotate($new-deg)
+	-moz-transform:    rotate($new-deg)
+
+@mixin big-circle-bg($color1, $color2)
+	background-color: $color2
+	background-image: -webkit-radial-gradient(center center, circle cover, $color1, $color2 100%)
+	background-image:    -moz-radial-gradient(center center, circle cover, $color1, $color2 100%)
+	background-image:     -ms-radial-gradient(center center, circle cover, $color1, $color2 100%)
+	background-image:      -o-radial-gradient(center center, circle cover, $color1, $color2 100%)
+	background-image:         radial-gradient(center center, circle cover, $color1, $color2 100%)
+
+@mixin gradient($top, $bottom)
+	background-image: -moz-linear-gradient(top, $top 0%, $bottom 100%) /* FF3.6+ */
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, $top), color-stop(100%, $bottom)) /* Chrome,Safari4+ */
+	background-image: -webkit-linear-gradient(top, $top 0%, $bottom 100%) /* Chrome10+,Safari5.1+ */
+	background-image: -o-linear-gradient(top, $top 0%, $bottom 100%) /* Opera 11.10+ */
+	background-image: -ms-linear-gradient(top, $top 0%, $bottom 100%) /* IE10+ */
+	background-image: linear-gradient(to bottom, $top 0%, $bottom 100%) /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$top', endColorstr='$bottom',GradientType=0 ) /* IE6-9 */
+
+@mixin opacity($amount)
+	/* IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+($amount * 100)+")"
+	/* IE 5-7 */
+	filter: alpha(opacity=($amount * 100))
+	/* Netscape */
+	-moz-opacity: $amount
+	/* Safari 1.x */
+	-khtml-opacity: $amount
+	/* Good browsers */
+	opacity: $amount
+
+@mixin transform($value)
+	-webkit-transform: $value
+	-moz-transform:    $value
+	-ms-transform:     $value
+	-o-transform:      $value
+	transform:         $value
+
+@mixin perspective($value)
+	-webkit-perspective: $value
+	-moz-perspective:    $value
+	-ms-perspective:     $value
+	-o-perspective:      $value
+	perspective:         $value
+
+@mixin transform-style($value)
+	-webkit-transform-style: $value
+	-moz-transform-style:    $value
+	-ms-transform-style:     $value
+	-o-transform-style:      $value
+	transform-style:         $value
+
+@mixin transform-origin($value)
+	-webkit-transform-origin: $value
+	-moz-transform-origin:    $value
+	-ms-transform-origin:     $value
+	-o-transform-origin:      $value
+	transform-origin:         $value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

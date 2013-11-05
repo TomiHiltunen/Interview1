@@ -1,0 +1,1311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"re",
+				"review-body"
+			],
+			[
+				"calendar",
+				"calendarData"
+			],
+			[
+				"hide",
+				"hideBarsDelay"
+			],
+			[
+				"old",
+				"olderComments"
+			],
+			[
+				"comme",
+				"commentForm"
+			],
+			[
+				"can",
+				"canShow"
+			],
+			[
+				"list-",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"mod",
+				"modalData"
+			],
+			[
+				"new",
+				"newTemplate"
+			],
+			[
+				"moda",
+				"modalTemplate"
+			],
+			[
+				"modalID",
+				"modalIDs"
+			],
+			[
+				"border-left-",
+				"border-left-width"
+			],
+			[
+				"step",
+				"stepAmount"
+			],
+			[
+				"ste",
+				"stepAmount"
+			],
+			[
+				"qq",
+				"qq-upload-list"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"qq-",
+				"qq-upload-button"
+			],
+			[
+				"Se",
+				"SettingsService"
+			],
+			[
+				"cha",
+				"changeSubview"
+			],
+			[
+				"sele",
+				"selectedSubview"
+			],
+			[
+				"str",
+				"stringID	string ν"
+			],
+			[
+				"brick",
+				"brickwall"
+			],
+			[
+				"current",
+				"currentSubview"
+			],
+			[
+				"De",
+				"Description	string ν"
+			],
+			[
+				"cac",
+				"cachedViewCreatePlace"
+			],
+			[
+				"over",
+				"overlayContainer"
+			],
+			[
+				"pla",
+				"placeName"
+			],
+			[
+				"StatusBa",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"user",
+				"userID	int64 ν"
+			],
+			[
+				"log",
+				"loginStatus"
+			],
+			[
+				"col",
+				"Collection"
+			],
+			[
+				"curre",
+				"currentTab"
+			],
+			[
+				"notifi",
+				"notifications"
+			],
+			[
+				"dele",
+				"delegateEvents"
+			],
+			[
+				"notificati",
+				"notificationsUpdated"
+			],
+			[
+				"maile",
+				"mailerResult"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"Twi",
+				"TwitterConnector"
+			],
+			[
+				"newe",
+				"newestTimestamp"
+			],
+			[
+				"has",
+				"has_twitter"
+			],
+			[
+				"cache",
+				"cachedCharCount"
+			],
+			[
+				"APP",
+				"APPsession"
+			],
+			[
+				"all",
+				"allowSubmit"
+			],
+			[
+				"remo",
+				"removeTimer"
+			],
+			[
+				"allow",
+				"allowFetchingMore"
+			],
+			[
+				"colle",
+				"collectionType"
+			],
+			[
+				"allo",
+				"allowFetchingMore"
+			],
+			[
+				"signe",
+				"signedIn"
+			],
+			[
+				"sea",
+				"searchEntry"
+			],
+			[
+				"sear",
+				"searchEntry"
+			],
+			[
+				"templa",
+				"templateUser"
+			],
+			[
+				"sho",
+				"showMoreButton"
+			],
+			[
+				"templ",
+				"templateLoader"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"people",
+				"peopleList"
+			],
+			[
+				"vali",
+				"validate_username"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"popU",
+				"popUpHTML"
+			],
+			[
+				"pop",
+				"popUpAutoOpen"
+			],
+			[
+				"po",
+				"popUp"
+			],
+			[
+				"under",
+				"UnderlyingPage"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"focu",
+				"focusReplyInput"
+			],
+			[
+				"cu",
+				"currentUser"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"sig",
+				"signedIn"
+			],
+			[
+				"cur",
+				"curPostView"
+			],
+			[
+				"pos",
+				"postOnPopUp"
+			],
+			[
+				"render",
+				"renderEmptyFeed"
+			],
+			[
+				"side",
+				"sidebarOffset"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"map",
+				"maptest2"
+			],
+			[
+				"mat",
+				"maptest1"
+			],
+			[
+				"bound",
+				"boundsChanged"
+			],
+			[
+				"calcu",
+				"calculateFullView"
+			],
+			[
+				"loca",
+				"locationFinal"
+			],
+			[
+				"star",
+				"startUpload"
+			],
+			[
+				"ERR",
+				"ERR_UNEXPECTED"
+			],
+			[
+				"collec",
+				"collectionType"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"lock",
+				"lockBoxes"
+			],
+			[
+				"uner",
+				"underlyingObjects"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.txt",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uncompiled/sass/style.sass",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix",
+				"name": "/*============="
+			}
+		},
+		{
+			"file": "html/index.html",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tomi/Documents/TYÖT/Yelp/Interview1/style.css",
+			"settings":
+			{
+				"buffer_size": 6654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uncompiled/sass/_mixins.sass",
+			"settings":
+			{
+				"buffer_size": 3442,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uncompiled/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 2208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uncompiled/scripts/services/Rates.js",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pre js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pr j",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pr js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"forma",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"set syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"tofo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"emmet wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"se syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"html pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"ins pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst pack",
+				"Package Control: Install Package"
+			],
+			[
+				"se syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"se syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"se syn jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"se syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syn S",
+				"Set Syntax: SQL"
+			],
+			[
+				"form ",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syn go",
+				"Set Syntax: Go"
+			],
+			[
+				"se synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"se syn pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"se syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pret jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syn jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pre jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prett js",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"compil",
+				"Coffee: Compile File"
+			],
+			[
+				"coffee",
+				"Coffee: Compile File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inte",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"int",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tomi/Documents/PROJEKTIT/Asiakastoivoo.fi/Uncompiled/sass/app.sass",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/uncompiled/scripts/lib/angular-1-1-5/angular.js",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/html/rates/plivo.csv",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/html/rates/twilio.csv",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/html/rates/tropo.csv",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/uncompiled/scripts/presets.js",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/uncompiled/scripts/lib/jquery/jquery-1.10.2.js",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/uncompiled/scripts/rate_comparer.js",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/index.html",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/README-txt",
+		"/Users/tomi/Documents/TYÖT/Plivo/Interview1/rates_plivo.csv",
+		"/Users/tomi/Documents/TYÖT/Yelp/Interview1/style.css",
+		"/Users/tomi/Documents/TYÖT/Yelp/Interview1/reviews.js",
+		"/Users/tomi/Documents/TYÖT/Yelp/Interview1/index.html",
+		"/Users/tomi/Documents/TYÖT/Yelp/Interview1/README.txt",
+		"/Users/tomi/Documents/TYÖT/Yelp/Interview1/reviews.json",
+		"/Users/tomi/Documents/TYÖT/MyTime/task1.html",
+		"/Users/tomi/Documents/PROJEKTIT/stance.io/uncompiled/sass/basic/_normalize.sass",
+		"/Users/tomi/Documents/TYÖT/MyTime/task2.php",
+		"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/RootCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/todos.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/directives.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/alert-edit.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/AlertEditCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/AlertsCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/tasks.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/profile.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/PostEditCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/profile.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/SettingsCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/PostCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/PostDetailCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-details.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/search.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/SearchCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-form.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/PostFormCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/CalendarCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/css/app.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/index.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/services.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/settings.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/PostsCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/calendar.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-list.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/filters.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/entries.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/CommentsCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/backups.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/reports.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/app.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/settings.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/ProfileCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/swing_concept/style.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/swing_concept/index.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/alerts.html",
+		"/Users/tomi/Documents/PROJEKTIT/BusinessSeminarFinder/index.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/swing_landing/style.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/swing_landing/index.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/TasksCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/error.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/img/icons.svg",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/css/swipebox.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/widget/jquery.swipebox.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/ReportCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-edit.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/widget/jquery.swipebox.min.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/app/controllers/SettingsItemCtrl.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/angular/angular-mobile.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/node_modules/moment/lang/fi.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/entry.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/css/app.css.BACKUP.1042.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-seen-list.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-complete-list.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-list_ORIGINAL.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/post-details_OLD.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/kuvaseina/test.xml",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/kuvaseina/single-entry.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/kuvaseina/testi.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/index.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/kuvaseina/testi.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/menu.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/fazer/iframe.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/posts.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/api.xsp/calendar.json",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/widget/chartjs/Chart.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/partials/task-details.html",
+		"/Users/tomi/Documents/PROJEKTIT/Vimention/Development/vimention-mobile/html/js/3rd-party/angular/angular-1.1.4.min.js",
+		"/Users/tomi/Documents/PROJEKTIT/Vimention/Development/vimention-mobile/html/js/3rd-party/angular-resource/angular-resource-1.1.4.min.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/widget/bootstrap-datepicker.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/css/fineuploader.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/js/bundle.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/css/magicsuggest-1.2.3.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/swing/scripts/fineuploader/uploader.js",
+		"/Users/tomi/Documents/TYÖT/Netwell/harkka/index_backbone.html",
+		"/Users/tomi/Documents/TYÖT/Netwell/harkka/demo.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/harkka/index.html",
+		"/Users/tomi/Documents/TYÖT/SkyX/virtual/lomalaukaa/tour.xml",
+		"/Users/tomi/Documents/TYÖT/SkyX/virtual/tahkocom/layer/golden_resort_hs.xml",
+		"/Users/tomi/Documents/TYÖT/SkyX/virtual/tahkocom/nelivektori.xml",
+		"/Users/tomi/Documents/TYÖT/SkyX/virtual/tahkocom/ilmakuva.xml",
+		"/Users/tomi/Documents/TYÖT/SkyX/temp/tour.xml",
+		"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Concepting/frontpage-1/frontpage-1.css",
+		"/Users/tomi/Documents/TYÖT/Netwell/harkka/demo.js",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/sass/resources/_mixins.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/sass/resources/_animate.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/sass/landing.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/sass/pages/_landing.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/coffee/landing.coffee",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/html/landing.html",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Page Structure/v1/uncompiled/sass/framework.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Page Structure/v1/html/framework.html",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Page Structure/v1/uncompiled/coffee/framework.coffee",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/sass/app.sass",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/sass/_brick.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Landing Page/v1/uncompiled/sass/resources/_entypo.sass",
+		"/Users/tomi/Documents/PROJEKTIT/MusicInfo/Page Structure/v1/uncompiled/sass/_framework_old.sass",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/sass/_mixins.sass",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/sass/_entypo.sass",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/coffee/views/brickview.coffee",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/coffee/views/place_page.coffee",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/coffee/views/index.coffee",
+		"/Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/go/frontend/users/user.go"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*/app/*.*",
+			"./scripts/app/*.*",
+			"/scripts/app/*.*",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"plivo",
+			"plivo.",
+			"Plivo",
+			"stance",
+			"itemprop",
+			"reviews",
+			"confirm",
+			"alert(",
+			"confirm",
+			"alert",
+			"newTemplate",
+			"scope",
+			"date",
+			"dat",
+			"date",
+			"date.getFullYear",
+			"getEnt",
+			"kari.haltt",
+			"todo",
+			"post.isTodo",
+			"can",
+			"complete",
+			"dpFrom",
+			"dpTo",
+			"dpFrom",
+			"dpDueDate",
+			"setDate",
+			"setDateTime",
+			"date",
+			"    ",
+			"#Complete",
+			"checkComplete",
+			"small",
+			".post",
+			"box-shadow",
+			".violet",
+			"amble",
+			".participant-table",
+			".post",
+			"parent",
+			"swipebox",
+			"supportSVG",
+			"hideBarsDelay",
+			"swipe",
+			"completeCanClick",
+			"console.log",
+			"CalendarService",
+			".append",
+			"img",
+			"author-photo",
+			"scope.path",
+			"toggleAdditional",
+			"resetForm",
+			".get",
+			"mobile",
+			"ä",
+			"showForm",
+			"repeat",
+			"label",
+			"done[2]",
+			"prompt",
+			"watch",
+			"location",
+			"aside ul li:hover",
+			"aside",
+			"\"",
+			"arrow-labeled",
+			"arrow-label",
+			".comments",
+			"seenTxt",
+			"arrow-labe",
+			".post",
+			".pointer",
+			"ö",
+			"ä",
+			"post-main",
+			"post-main-contnt",
+			"side-la",
+			".details",
+			"details",
+			"priority",
+			"console.log",
+			"'#Completed'",
+			"'#Complete'",
+			"#Complete",
+			"modernizer",
+			".button",
+			"PostsCtrl",
+			"isEditor",
+			"FullName",
+			"Status",
+			"Author",
+			"Date",
+			".Date",
+			"Date",
+			"PostCtrl",
+			"PostsCtrl",
+			"nav",
+			"TasksCtrl",
+			".post",
+			".comment",
+			".comments",
+			"pointer",
+			".comments",
+			".post",
+			"body",
+			"PostsCtrl",
+			"scrollspy",
+			"form-bloc",
+			"Bar",
+			"trigger",
+			"then",
+			"calendar",
+			"todo",
+			"search",
+			"search-",
+			"PostsCtrl",
+			"pointer",
+			"upload",
+			"font-size",
+			"16px",
+			"PostsCtrl",
+			"PostCtrl",
+			"isTodo",
+			"isTask",
+			"SearchCtrl",
+			"upload",
+			"qq"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"datepickers.from",
+			"datepickers.to",
+			"datepickers.from",
+			"\\t",
+			"",
+			"\\u00E4",
+			"'",
+			"str",
+			"\\u00F6",
+			"\\u00E4",
+			"postFormData.isTodo",
+			"isTodo",
+			" />",
+			".0\" atv=\"0.1\"",
+			"    ",
+			"r *http.Request",
+			"http.",
+			"d.",
+			"d *Draft",
+			"ApiResponse",
+			"\\n",
+			": ",
+			"\"",
+			"",
+			"mapContainer",
+			"ForgotPassword"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.txt",
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "uncompiled/sass/style.sass",
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								980
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*=============",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "html/index.html",
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/tomi/Documents/TYÖT/Yelp/Interview1/style.css",
+					"settings":
+					{
+						"buffer_size": 6654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1959,
+								1934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1806.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "uncompiled/sass/_mixins.sass",
+					"settings":
+					{
+						"buffer_size": 3442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "uncompiled/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 2208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 502.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "uncompiled/scripts/services/Rates.js",
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/tomi/Documents/PROJEKTIT/world-to-see/Development/v1-0-0/uncompiled/coffee/collections":
+	{
+		"height": 31.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 114.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 114.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 29.0
+	},
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"swing/scripts/app/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/tomi/Documents/Sublime Projects/Netwell.sublime-project"
+			],
+			[
+				"sky",
+				"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/User/SkyX.sublime-project"
+			],
+			[
+				"wo",
+				"/Users/tomi/Documents/Sublime Projects/world-to-see.sublime-project"
+			],
+			[
+				"vimentin",
+				"/Users/tomi/Library/Application Support/Sublime Text 2/Packages/User/Vimention.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}

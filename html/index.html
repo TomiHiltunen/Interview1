@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en" xmlns:ng="http://angularjs.org" ng-app="Plivo" id="ng-app">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Plivo Interview</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+		<link href="./css/style.css" rel="stylesheet" type="text/css" />
+	</head>
+
+	<body>
+		
+		<div id="wrapper">
+
+			<div class="pricing-module module-dk" ng-controller="PriceComparisonCtrl">
+				<h3 class="module-label">Compare prices</h3>
+				<!--<div class="cols cols-divided">
+					<div class="col-1-2 col-divided">
+						<h4>Outbound Calls</h4>
+						<div class="price">
+						    
+							<span class="price-label">Make calls starting at*</span>
+							
+							<span class="price-num">1.25<small>¢</small></span>
+							<span class="price-measure">per minute</span>
+						</div>
+					</div>
+
+					<div class="col-1-2">
+						<h4>Inbound Calls</h4>
+
+						<div class="price">
+						    
+						    
+							<span class="price-label">Receive calls starting at*</span>
+							
+							<span class="price-num">0.9<small>¢</small></span>
+							<span class="price-measure">per minute</span>
+						    
+						</div>
+
+						
+						<div class="price">
+							<span class="price-label">Buy numbers at</span>
+							<span class="price-num"><small>$</small>0.8</span>
+							<span class="price-measure">per month</span>
+						</div>
+						
+
+					</div>
+				</div>-->
+				<div class="compare-field">
+					<small>Type in the country code to compare:</small><br />
+					<input class="compare-input" type="text" ng-model="rawPrefix" placeholder="+1 (United States)" />
+				</div>
+
+				<h3>Outbound calls (¢/min)</h3>
+
+				<table class="priceTable">
+					<tr>
+						<td class="price">
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'plivo')!=null">{{getRateForPrefix(prefix, 'plivo')}}<small>¢</small></span>
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'plivo')==null">--<small>¢</small></span>
+							<span class="price-measure" ng-class="{green: getRateForPrefix(prefix, 'plivo') && isLowest(prefix, 'plivo'), red: getRateForPrefix(prefix, 'plivo') && !isLowest(prefix, 'plivo')}">Plivo</span>
+						</td>
+						<td class="price">
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'twilio')!=null">{{getRateForPrefix(prefix, 'twilio')}}<small>¢</small></span>
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'twilio')==null">--<small>¢</small></span>
+							<span class="price-measure" ng-class="{green: getRateForPrefix(prefix, 'twilio') && isLowest(prefix, 'twilio'), red: getRateForPrefix(prefix, 'twilio') && !isLowest(prefix, 'twilio')}">Twilio</span>
+						</td>
+						<td class="price">
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'tropo')!=null">{{getRateForPrefix(prefix, 'tropo')}}<small>¢</small></span>
+							<span class="price-num" ng-show="getRateForPrefix(prefix, 'tropo')==null">--<small>¢</small></span>
+							<span class="price-measure" ng-class="{green: getRateForPrefix(prefix, 'tropo') && isLowest(prefix, 'tropo'), red: getRateForPrefix(prefix, 'tropo') && !isLowest(prefix, 'tropo')}">Tropo</span>
+						</td>
+					</tr>
+				</table>
+
+			</div>
+
+		</div>
+
+		<!-- JAVASCRIPT BELOW THIS LINE -->
+		<!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<!--[if IE]><script src="//cdnjs.cloudflare.com/ajax/libs/json3/3.2.5/json3.min.js"></script><![endif]-->
+		<script type="text/javascript" src="./js/app.min.js"></script>
+	</body>
+	
+</html>
